@@ -1,26 +1,23 @@
 {
-  "owner": "Dnevend",
+  "owner": "leilei3167",
   "theme": "mac",
-  "language": "en",
+  "language": "zh",
   "profile": {
-    "cover": "/images/cover.jpg",
-    "cardUrl": null,
     "contrib": {
       "visible": true
     },
     "repos": {
       "visible": true,
-      "showCount": 4
+      "showCount": 6
     },
     "gists": {
       "visible": true,
-      "showCount": 4
+      "showCount": 6
     }
   },
   "gists": {
     "prefix": "classy",
     "split": ".",
-    "default": null,
     "type": [
       {
         "name": "blog"
@@ -32,28 +29,12 @@
   },
   "links": [
     {
-      "title": "Github",
-      "href": "https://github.com/Dnevend/classy-github"
-    },
-    {
-      "title": "HomePage",
-      "href": "https://dnevend.site"
+      "title": "GitHub",
+      "href": "https://github.com/leilei3167"
     }
   ],
-  "nav": {
-    "extra": []
-  },
-  "now": {
-    "books": [
-      "《江湖边》《北京法源寺》《夜晚的潜水艇》"
-    ],
-    "music": [
-      "秘密後院、NeilYoung"
-    ],
-    "watching": []
-  },
   "guestbook": {
-    "gistId": "e2e89074d0439b74222911fc6449fbb1"
+    "gistId": null
   },
   "webring": {
     "enabled": true
@@ -62,6 +43,6 @@
     "enabled": true
   },
   "seo": {
-    "index": true
+    "index": false
   }
 }
